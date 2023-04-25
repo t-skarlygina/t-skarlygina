@@ -10,6 +10,23 @@ https://t.me/SkarlyginaTatiana
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  
+### Обучение
+ 
+ <code>![Аналитик данных]()</code>
+ 
+ <code>[Сертификат Аналитик данных Karpov.Courses]() </code>
+ 
+ <code>[Сертификат Симулятор SQL Karpov.Courses](https://lab.karpov.courses/live_certificate/52826630-e2cd-4416-a5aa-68dc970d0a1e/) </code>
+ 
+ <code>![SQL](https://stepik.org/certificate/68952dac49eacc818e8b1a0dc6529da2e017b05b.png?resolution=low)</code>
+ 
+ <code>[Сертификат Интерактивный тренажер по SQL stepik.org](https://stepik.org/cert/1853202) </code>
+
+ <code>![основы статистики](https://stepik.org/certificate/4aa573bcbc8e9b856266ca5fd99280f115c19bf0.png?resolution=low)</code>
+ 
+ <code>[Сертификат Основы статистики stepik.org](https://stepik.org/cert/1909207) </code>
+ 
+ 
  ---
 
 ### :fire: Моя статистика :
