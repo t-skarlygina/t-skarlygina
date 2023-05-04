@@ -12,6 +12,7 @@ https://t.me/SkarlyginaTatiana
  
 ### Обучение
  
+ ![sertificate_KC](https://user-images.githubusercontent.com/128238543/236158140-b930f8b5-3b46-4aa0-b0a9-b65c8669c5ee.jpg)
  <code>[Сертификат Аналитик данных Karpov.Courses](https://lab.karpov.courses/certificate/5beec4bd-6e47-4054-adc4-011fc00657bf/) </code>
  
  <code>[Сертификат Симулятор SQL Karpov.Courses](https://lab.karpov.courses/live_certificate/52826630-e2cd-4416-a5aa-68dc970d0a1e/) </code>
