@@ -9,7 +9,21 @@ https://t.me/SkarlyginaTatiana
 <a href="https://www.linkedin.com/in/татьяна-скарлыгина-52a711270/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
- 
+
+### Мои проекты
+
+
+| Название   |     Описание    |  Тип|
+|:----------:|:-------------:|:------:|
+| [SQL, AB-test](https://github.com/t-skarlygina/SQL-metrics-A-B-test)| Оценка результатов А/Б-тестирования | SQL stat |
+| [E-learning](https://github.com/t-skarlygina/Data_analysis_E-learning)| Анализ данных платформы E-learning, RFM-анализ | EDA |
+| [E-commerce](https://github.com/t-skarlygina/Data_analysis_E-commerce)| Анализ данных платформы E-commerce, когортный RFM-анализ | EDA |
+|  [A/B-test](https://github.com/t-skarlygina/AB-test)| Оценка результатов А/Б-тестирования | stat |
+|  [Дашборд](https://public.tableau.com/app/profile/tatiana4682/viz/Task2-2_16754458705760/Dashboard1)| Вакансии в сфере аналитики | BI |
+</p>
+
+
+
 ### Обучение
  
  ![sertificate_KC](https://user-images.githubusercontent.com/128238543/236158140-b930f8b5-3b46-4aa0-b0a9-b65c8669c5ee.jpg)
