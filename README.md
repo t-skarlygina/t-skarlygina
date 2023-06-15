@@ -20,6 +20,7 @@ https://t.me/SkarlyginaTatiana
 | [E-commerce](https://github.com/t-skarlygina/Data_analysis_E-commerce)| Анализ данных платформы E-commerce, когортный RFM-анализ | Python EDA |
 |  [A/B-test](https://github.com/t-skarlygina/AB-test)| Оценка результатов А/Б-тестирования | Python stat |
 |  [Вакансии](https://public.tableau.com/app/profile/tatiana4682/viz/Task2-2_16754458705760/Dashboard1)| Дашборд Tableau Вакансии в сфере аналитики | Tableau BI |
+|[Rocklands](https://github.com/t-skarlygina/rocklands)|Мобильный дашборд фестиваля скалолазания Rocklands | API Tableau BI|
 </p>
 
 
